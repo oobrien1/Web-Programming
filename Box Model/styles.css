@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    width: 300px;
+    margin: 0;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+.top {
+    border: 10px solid #000000;
+    background-color: #bc85e9;
+    padding: 20px;
+    margin-bottom:auto;
+}
+
+.middle {
+    border: 20px solid #000000; 
+    background-color: #8aa6b9; 
+}
+
+.bottom {
+    border: 10px solid #000000; 
+    background-color: #77b743; 
+    margin-top:auto;
+}
+
+
